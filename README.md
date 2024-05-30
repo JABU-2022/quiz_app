@@ -1,20 +1,24 @@
-# JABU CLOTHING BRAND Quiz
+# 🌟 JABU CLOTHING BRAND Quiz 🌟
 
-The main purpose of this project is to test users' knowledge about the most trending brand in Rwanda, **JABU CLOTHING BRAND**. The quiz includes questions related to:
+Welcome to the **JABU CLOTHING BRAND Quiz**! This interactive quiz is designed to test your knowledge about Rwanda's most trending brand, **JABU CLOTHING BRAND**.
 
-- JABU CLOTHING BRAND
-- CEO of JABU CLOTHING BRAND
-- Main customers of JABU CLOTHING BRAND
-- Production manager and other key personnel of JABU CLOTHING BRAND
+🔗 **[Take the Quiz](https://quiz-app-snowy-tau.vercel.app/)**
 
-## About JABU CLOTHING BRAND
+## 🛍️ About JABU CLOTHING BRAND
 
-JABU Clothing Brand is a Rwanda-based clothing manufacturing company that provides affordable sportswear and casual outfits for both men and women. JABU Clothing Brand specializes in manufacturing sportswear, including athletic apparel such as workout clothes, running clothes, and other activewear.
+**JABU Clothing Brand** is a Rwanda-based clothing manufacturing company dedicated to providing affordable sportswear and casual outfits for both men and women. Specializing in athletic apparel, JABU offers a variety of products including:
 
-### Mission
+- 🏃 Workout clothes
+- 👟 Running clothes
+- 🧥 Other activewear
 
-JABU Clothing Brand's mission is to create high-quality, innovative sportswear that meets the needs of athletes and other sportspeople around the world.
+## 🎯 Our Mission
 
-### Goals
+**JABU Clothing Brand** aims to create high-quality, innovative sportswear that meets the needs of athletes and sportspeople around the globe.
 
-- **By 2027**: JABU aims to become the leading clothing brand in Rwanda and worldwide, while ensuring that 85% of its total workforce is comprised of women.
+## 🚀 Our Goals
+
+By **2027**, JABU Clothing Brand aims to:
+
+- Become the leading clothing brand in Rwanda and worldwide.
+- Ensure that **85% of its workforce** is comprised of women.
